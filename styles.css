@@ -1,0 +1,38 @@
+.wrapper{
+  background-color: rgb(241, 238, 244);
+}
+.navbar-section{
+ background-color: rgb(204, 202, 207);
+}
+.navbar-section span{
+  color: black;
+}
+.navbar-section ul li a{
+  color: black;
+}
+.hero-section{
+  background-color: rgb(79, 76, 82);
+  color: aliceblue;
+  border-radius: 1%;
+
+}
+
+
+.about-us{
+  background-color: rgb(204, 202, 207);
+  background: url(vector\ design.jpeg)no-repeat;
+}
+
+
+
+.contact-us{
+  background-color: whitesmoke;
+}    
+
+.footer{
+  background-color: black;
+  color: white;
+}
+.footer ul li a{
+  color: aliceblue;
+}
